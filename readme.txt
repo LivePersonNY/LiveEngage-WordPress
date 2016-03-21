@@ -4,7 +4,7 @@ Tags: liveperson, livechat, livechat, chat, support, marketing
 Tested up to: 4.4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
-License URI: https://github.com/LivePersonNY/liveperson-wordpress/blob/master/LICENSE
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 LivePerson offers a modern way to talk to visitors regardless of how they visit your website. This plugin adds it to specified pages on your site.
 

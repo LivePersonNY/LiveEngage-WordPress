@@ -19,11 +19,23 @@ if (!defined('ABSPATH')) {
 add_action('admin_menu', 'liveperson_admin_menu');
 add_action('admin_init', 'liveperson_admin_init');
 
+// Register this plugin's filters.
+add_filter('plugin_action_links_' . plugin_basename(__FILE__), 'liveperson_settings_link');
+
 /**
  * Hooks into admin_menu to add a LivePerson options page to the Settings menu.
  */
 function liveperson_admin_menu() {
   add_options_page('LivePerson', 'LivePerson', 'manage_options', 'liveperson', 'liveperson_options_page');
+}
+
+/**
+ * Adds the settings link to the LivePerson row on the plugins page.
+ */
+function liveperson_settings_link($links) {
+  $settings_link = '<a href="options-general.php?page=liveperson">' . __('Settings', 'liveperson') . '</a>';
+  array_unshift($links, $settings_link);
+  return $links;
 }
 
 /**

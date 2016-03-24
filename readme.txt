@@ -11,7 +11,7 @@ LivePerson offers a modern way to talk to visitors regardless of how they visit 
 == Description ==
 LiveEngage by LivePerson is the modern way to talk to visitors whether they’re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.
 
-## [Get Started Now](http://register.liveperson.com/wordpress?utm_source=WordPress&utm_medium=Partnerships&utm_campaign=applisting) ##
+## [Get Started Now](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) ##
 
 ### Benefits for Merchants: ###
 
@@ -59,7 +59,7 @@ Protect your consumers’ information with enterprise-grade security and stabili
 
 ### Pricing and Plans: ###
 
-[Click here](http://register.liveperson.com/wordpress?utm_source=WordPress&utm_medium=Partnerships&utm_campaign=applisting) or go to [http://register.liveperson.com/wordpress](http://register.liveperson.com/wordpress?utm_source=WordPress&utm_medium=Partnerships&utm_campaign=app-listing) to get started with a special promotion for WordPress users.
+[Click here](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) or go to [http://register.liveperson.com/wordpress](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) to get started with a special promotion for WordPress users.
 
 == Installation ==
 Install LivePerson via the plugin directory or by uploading the files manually to your server.
@@ -69,7 +69,7 @@ Install LivePerson via the plugin directory or by uploading the files manually t
 2. LiveChat messaging app connections
 3. LiveEngage agent dashboard
 4. LiveEngage site engagements dashboard
-5. LiveEngage co-browsing intitation
+5. LiveEngage co-browsing initiation
 6. LiveEngage co-browsing operator interface
 7. LivePerson WordPress plugin settings
 

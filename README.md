@@ -1,6 +1,6 @@
 # LiveEngage Livechat + Messaging for WordPress
 
-Contributors: [rszrama](https://github.com/rszrama)  
+Contributors: [liveperson](https://github.com/LivePersonNY), [rszrama](https://github.com/rszrama)  
 Tags: liveperson, liveengage, livechat, messaging, chat, support, marketing, sales  
 Requires at least: 4.4.2  
 Tested up to: 4.4.2  

@@ -1,6 +1,6 @@
 === LivePerson ===
 Contributors: rszrama
-Tags: liveperson, livechat, livechat, chat, support, marketing
+Tags: liveperson, liveengage, livechat, messaging, chat, support, marketing, sales
 Requires at least: 4.4.2
 Tested up to: 4.4.2
 Stable tag: 1.0.0

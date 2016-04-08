@@ -63,10 +63,18 @@ function liveperson_settings_section_callback() {
 }
 
 /**
+ * Returns the registration URL for WordPress users.
+ */
+function liveperson_registration_url() {
+  return 'https://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=module&utm_campaign=partnerships';
+}
+
+/**
  * Renders the account number form field.
  */
 function liveperson_account_number_field_render() {
   echo '<input type="text" name="liveperson_settings[liveperson_account_number]" value="' . liveperson_account_number() . '"">';
+  echo "<p><small>Don't have an account yet? <a href=\"" . liveperson_registration_url() . "\" target=\"_blank\">Register here</a> to get started with a special promotion for WordPress users.</small></p>";
 }
 
 /**

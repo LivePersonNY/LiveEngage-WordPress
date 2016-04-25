@@ -1,14 +1,14 @@
 # LiveEngage Livechat + Messaging for WordPress
 
-Contributors: [rszrama](https://github.com/rszrama)  
-Tags: liveperson, liveengage, livechat, messaging, chat, support, marketing, sales  
+Contributors: [LivePersonNY](https://github.com/LivePersonNY), [rszrama](https://github.com/rszrama)
+Tags: chat, chat plugin, customer help, customer service chat, customer service software, customer support, ecommerce chat, help desk, help desk software, live chat, livechat, live chat button,live chat plugin, live chat software, live chat solution, live chat support, live chat tool, live chat widget, live support, live support button, livechat, liveperson, live person, liveengage, online support, online sales, messaging, marketing, loyalty, analytics, SMS, facebook integration, wordpress live chat, wordpress chat
 Requires at least: 4.4.2  
-Tested up to: 4.4.2  
+Tested up to: 4.5
 Stable tag: 1.0.0  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-LiveEngage by LivePerson is the modern way to talk to visitors whether they’re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.
+LiveEngage is the modern way to talk to visitors whether they're on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This plugin adds the necessary tag script to your site footer that enables the livechat functionality.
 
 [Get Started Now](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing)
 
@@ -22,8 +22,8 @@ LiveEngage by LivePerson is the modern way to talk to visitors whether they’re
 * Increase sales conversion
 * Stay connected with your visitors and customers on the go with the LiveEngage mobile app
 * Out-of-the-box KPI reporting metrics that track engagement performance, agent effectiveness, and real time data on customer satisfaction
-* Fully customize aspects of the LiveEngage platform to match your brand\'s look and feel
-* Protect your consumers’ information with enterprise-grade security and stability
+* Fully customize aspects of the LiveEngage platform to match your brand's look and feel
+* Protect your consumers' information with enterprise-grade security and stability
 
 ### Product Features:
 
@@ -67,7 +67,12 @@ Protect your consumers’ information with enterprise-grade security and stabili
 [Click here](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) or go to [http://register.liveperson.com/wordpress](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) to get started with a special promotion for WordPress users.
 
 ### Installation
-Install LivePerson via the plugin directory or by uploading the files manually to your server.
+
+* Install the LiveEngage plugin from WordPress directory and activate it.
+* Configure the account number the plugin should use to embed livechat on your site.
+* If you don't have an account please [click here](http://register.liveperson.com/wordpress?utm_source=wordpress&utm_medium=partnerships&utm_campaign=app-listing) to create one.
+* Customize the livechat visibility setting based on a blacklist or whitelist of certain pages and user roles.
+* For more detailed instructions on how to install the plugin or the manual installation process, please go to our [integrations knowledge base](http://support.liveperson.com/support/knowledgebase/integrations).
 
 ## Changelog
 **1.0.0**

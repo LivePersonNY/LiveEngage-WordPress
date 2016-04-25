@@ -1,6 +1,6 @@
 # LiveEngage Livechat + Messaging for WordPress
 
-Contributors: [LivePersonNY](https://github.com/LivePersonNY), [rszrama](https://github.com/rszrama)
+Contributors: [liveperson](https://github.com/LivePersonNY), [rszrama](https://github.com/rszrama)  
 Tags: chat, chat plugin, customer help, customer service chat, customer service software, customer support, ecommerce chat, help desk, help desk software, live chat, livechat, live chat button,live chat plugin, live chat software, live chat solution, live chat support, live chat tool, live chat widget, live support, live support button, livechat, liveperson, live person, liveengage, online support, online sales, messaging, marketing, loyalty, analytics, SMS, facebook integration, wordpress live chat, wordpress chat
 Requires at least: 4.4.2  
 Tested up to: 4.5
